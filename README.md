@@ -4,13 +4,13 @@ This is our paper list:
 
 ##  Character Recognition
   *[1]CNN-Based Chinese Character Recognition with Skeleton Feature* <br>
-  *[2]SCS --- Style and Content Supervision Network for Character Recognition with Unseen Font Style* <br>
+  *[2]SCS : Style and Content Supervision Network for Character Recognition with Unseen Font Style* <br>
   *[3]Reducing Style Overfitting for Character Recognition via Parallel Neural Networks with Style to Content Connection* <br>
-  *[4]SACR --- Style-Aware Character Recognition via Feature Distillation and Correlation Learning* <br>
+  *[4]SACR : Style-Aware Character Recognition via Feature Distillation and Correlation Learning* <br>
 
 ##  Attribute Prediction
   *[5]Demographic Prediction from Purchase Data based on Knowledge-Aware Embedding* <br>
-  *[6]Your Pedometer Tells You: Attribute Inference via Daily Walking Step Count* <br>
+  *[6]Your Pedometer Tells You : Attribute Inference via Daily Walking Step Count* <br>
   *[7]I Know You by Your Walking Demographic Prediction with Separated Embedding and Correlation Learning* <br>
 
  ## Location Prediction
