@@ -1,6 +1,6 @@
 # Paper-List
 
-This is our paper list:
+Our paper list:
 
 ##  Character Recognition
   *[1]CNN-Based Chinese Character Recognition with Skeleton Feature* <br>
